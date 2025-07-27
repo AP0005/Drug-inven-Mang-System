@@ -72,30 +72,6 @@ Developed a desktop-based Drug Inventory Management System to streamline the man
 | ![Sales](assets/sales.png) |
 
 ---
-
-## 🗃️ Project Structure
-Inventory-Management-System/
-│
-├── ims.db # SQLite database file
-├── create_db.py # Initializes the database schema
-├── login.py # Login and password verification logic
-├── dashboard.py # Central GUI dashboard
-├── employee.py # Employee record management
-├── supplier.py # Supplier management
-├── category.py # Category management
-├── product.py # Product (drug) management
-├── sales.py # View and search customer invoices
-│
-├── bill/ # Generated customer bills (.txt)
-├── images/ # GUI image assets (used by Tkinter)
-├── assets/ # Screenshots for README display
-├── README.md # Project documentation
-└── .gitignore # Files to exclude from Git
-
-
-
----
-
 ## 🧪 Installation & Running
 
 ### 🧰 Requirements
