@@ -55,21 +55,27 @@ Developed a desktop-based Drug Inventory Management System to streamline the man
 
 > Save your screenshots in the `assets/` folder and commit them with your repo.
 
-| Login Page                | Dashboard                 |
-|--------------------------|---------------------------|
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) |
+### Login Page  ###
+<img width="625" height="316" alt="login" src="https://github.com/user-attachments/assets/e0fa3629-528d-4780-8035-8df65515d50f" />
 
-| Employee Module           | Supplier Module           |
-|--------------------------|---------------------------|
-| ![Employee](assets/employee.png) | ![Supplier](assets/supplier.png) |
+### Dashboard  ###
+<img width="690" height="393" alt="dashboard" src="https://github.com/user-attachments/assets/62bb8d3f-8763-48ad-80aa-e5511b8d4301" />
 
-| Category Module           | Product Module            |
-|--------------------------|---------------------------|
-| ![Category](assets/category.png) | ![Product](assets/product.png) |
+### Employee Module ###
+<img width="684" height="328" alt="employee" src="https://github.com/user-attachments/assets/dd8fc830-7ba9-4712-a45b-37349ef55ba1" />
 
-| Sales Module              |
-|--------------------------|
-| ![Sales](assets/sales.png) |
+### Supplier Module ###
+<img width="385" height="324" alt="supplier" src="https://github.com/user-attachments/assets/1342c61d-5323-4e38-aadf-aebc6d9190b4" />
+
+### Category Module ###
+<img width="683" height="305" alt="category" src="https://github.com/user-attachments/assets/71ff3cf0-1542-4144-acdb-41b8d39afc7c" />
+
+### Product Module  ###
+<img width="683" height="338" alt="product" src="https://github.com/user-attachments/assets/51e83059-a79a-4b92-8e79-647fe30f2f6c" />
+
+### Sales Module   ###
+<img width="641" height="310" alt="sales" src="https://github.com/user-attachments/assets/a6def054-d1fe-4640-bacb-83fee8eee805" />
+
 
 ---
 ## 🧪 Installation & Running
